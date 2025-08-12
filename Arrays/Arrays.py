@@ -9,6 +9,3 @@ def reverseArr (arr):
         left += 1
         right -= 1
     return arr
-    
-print(reverseArr([1,2,3,4,5]))
-
